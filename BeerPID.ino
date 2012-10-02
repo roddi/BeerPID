@@ -127,9 +127,6 @@ byte ATuneModeRemember=2;
 
 PID_ATune aTune(&Input, &Output);
 
-int lowTemp = 5;
-int highTemp = 100;
-
 // tuning state
 boolean isTuning = false;
 
