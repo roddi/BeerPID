@@ -228,7 +228,7 @@ void setup()
   Serial.begin(9600);
   Serial.println(" ");
   Serial.println(" ");
-  Serial.println("BrewPID!");
+  Serial.println("BeerPID");
   Serial.println(" ");
   Serial.println("Copyright 2012 (C) Ruotger Deecke.");
   Serial.println(" ");
